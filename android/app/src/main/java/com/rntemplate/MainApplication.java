@@ -1,4 +1,4 @@
-package com.rn_splashscreen_tutorial;
+package com.rntemplate;
 
 import android.app.Application;
 import android.util.Log;

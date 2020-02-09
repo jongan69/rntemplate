@@ -1,5 +1,5 @@
 {
-  "name": "rn_splashscreen_tutorial",
+  "name": "rntemplate",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "graphql": "^14.6.0",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-splash-screen": "^3.2.0"

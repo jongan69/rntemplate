@@ -1,4 +1,4 @@
-package com.rn_splashscreen_tutorial;
+package com.rntemplate;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "rn_splashscreen_tutorial";
+        return "rntemplate";
     }
 
     @Override
