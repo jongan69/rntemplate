@@ -15,6 +15,7 @@ yarn global add react-native-rename
 
 react-native-rename <newName>
 ```
+For iOS, you must do a pod install
 ```
 cd ios && pod install && cd ..
 ```
