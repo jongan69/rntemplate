@@ -1,7 +1,5 @@
-# Add a splash screen to a React Native app
+# Template React Native app
 > React Native project
-
-This is the final code for the [Add a splash screen to a React Native app]() tutorial.
 
 ## Setup
 Checkout the project  
@@ -9,6 +7,13 @@ Checkout the project
 Install dependencies
 ```
 yarn install
+
+```
+To rename the project to your app name
+```
+yarn global add react-native-rename
+
+react-native-rename <newName>
 ```
 ```
 cd ios && pod install && cd ..
